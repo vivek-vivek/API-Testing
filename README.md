@@ -1,6 +1,6 @@
-# api_learning
+# Api Learning
 
-A new Flutter project.
+A new Flutter project to understand the api concept.
 
 ## Getting Started
 
